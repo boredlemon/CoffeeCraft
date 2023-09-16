@@ -5,7 +5,7 @@ ___
 # MICROCRAFT
 A Minicraft remake with some neat extras. Beat the fearsome **AIR WIZARD** to win the game!
 
-![screenshot](screen.png)
+![screenshot](HAHAHAHAHHAHAHAAHAHA.png)
 
 Some of the neat extras:
 - Mithril (new material)
@@ -18,7 +18,7 @@ Some of the neat extras:
 - and much more...
 
 ## Running
-See [Releases](https://github.com/tornukah/microcraft/releases)
+See [Releases](https://github.com/Tornukah/TornukahCraft-JAVA/releases/tag/java)
 
 See below to build and run for yourself or try to run it out of any decent Java IDE.
 
