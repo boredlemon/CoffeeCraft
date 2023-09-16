@@ -1,3 +1,7 @@
+# Use your brain and read this
+Just note that for now this game only supports MAC ONLY! If it says undefined developer, just right click on the application and open it. This game is not a malware i just haven't published it to apple yet.
+___
+
 # MICROCRAFT
 A Minicraft remake with some neat extras. Beat the fearsome **AIR WIZARD** to win the game!
 
