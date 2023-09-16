@@ -25,14 +25,14 @@ See below to build and run for yourself or try to run it out of any decent Java 
 *Please note* that in order to run the .jar file directly you will need at least the Java 14 runtime installed. 
 
 ## Build And Run
-
-MACOS
 ___
+MACOS
+
 - Mac: `$ ./package.sh` creates `Microcraft-1.0.dmg` which contains the application MICROCRAFT.app.
 - ./package.sh will run and start the application!
-
-WINDOWS
 ___
+WINDOWS
+
 - Windows: `package.bat` creates `MICROCRAFT-1.0.exe` file which installs MICROCRAFT.exe to `C:\Program Files\MICROCRAFT`.
 
 - With any OS and a valid JDK 14+ install, both `package.{sh, bat}` create `out\artifacts\Microcraft_jar\Microcraft.jar` which can be run on its own with `java -jar out\artifacts\Microcraft_jar\Microcraft.jar`
