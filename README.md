@@ -28,8 +28,8 @@ See below to build and run for yourself or try to run it out of any decent Java 
 - Mac: `$ ./package.sh` creates `Microcraft-1.0.dmg` which contains the application MICROCRAFT.app.
 - ./package.sh will run and start the application!
 
-- With any OS and a valid JDK 14+ install, both `package.{sh, bat}` create `out\artifacts\Microcraft_jar\Microcraft.jar` which can be run on its own with `java -jar out\artifacts\Microcraft_jar\Microcraft.jar`
-
 # Additional Stuff
 In the future when this supports windows
 - Windows: `package.bat` creates `MICROCRAFT-1.0.exe` file which installs MICROCRAFT.exe to `C:\Program Files\MICROCRAFT`.
+
+- With any OS and a valid JDK 14+ install, both `package.{sh, bat}` create `out\artifacts\Microcraft_jar\Microcraft.jar` which can be run on its own with `java -jar out\artifacts\Microcraft_jar\Microcraft.jar`
