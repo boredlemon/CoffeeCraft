@@ -2,7 +2,7 @@
   <artifact type="jar" name="Minicraft:jar">
     <output-path>$PROJECT_DIR$/out/artifacts/Minicraft_jar</output-path>
     <root id="archive" name="Minicraft.jar">
-      <element id="module-output" name="Microcraft" />
+      <element id="module-output" name="Coffeecraft" />
     </root>
   </artifact>
 </component>

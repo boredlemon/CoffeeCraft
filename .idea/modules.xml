@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Microcraft.iml" filepath="$PROJECT_DIR$/Microcraft.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Coffeecraft.iml" filepath="$PROJECT_DIR$/Coffeecraft.iml" />
     </modules>
   </component>
 </project>
