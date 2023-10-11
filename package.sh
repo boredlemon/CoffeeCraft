@@ -48,6 +48,6 @@ if [ "$do_build" = true ]; then
   /usr/bin/javac -sourcepath src src/com/coffee/coffeecraft/Main.java -d out/production/Coffeecraft
   cp -r res/ out/production/Coffeecraft/
   /usr/bin/jar -cmvf src/META-INF/MANIFEST.MF out/artifacts/Coffeecraft_jar/Coffeecraft.jar -C out/production/Coffeecraft/ .
-  /usr/bin/jpackage --name COFFEECRAFT --input out/artifacts/Coffeecraft_jar/ \
+  /usr/bin/jpackage --name Coffeecraft --input out/artifacts/Coffeecraft_jar/ \
     --main-jar Coffeecraft.jar --main-class com.coffee.coffeecraft.Main --resource-dir res --icon res/icon.icns
 fi
