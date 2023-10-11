@@ -1,9 +1,8 @@
 package com.coffee.coffeecraft.sound;
 
-import javax.sound.sampled.*;
-
 import com.coffee.coffeecraft.Main;
 
+import javax.sound.sampled.*;
 import java.io.BufferedInputStream;
 import java.io.IOException;
 import java.util.Collections;
@@ -12,12 +11,12 @@ import java.util.Set;
 
 public class Sound {
     public static final Sound CRAFT = new Sound("/sound/craft.wav");
-    public static final Sound HIT = new Sound("/sound/aughh.wav");
+    public static final Sound HIT = new Sound("/sound/hit.wav");
     public static final Sound HURT = new Sound("/sound/hurt.wav");
-    public static final Sound LOSE = new Sound("/sound/elevator.wav");
+    public static final Sound LOSE = new Sound("/sound/lose.wav");
     public static final Sound PICKUP = new Sound("/sound/pickup.wav");
     public static final Sound PLAYER_HURT = new Sound("/sound/player_hurt.wav");
-    public static final Sound START = new Sound("/sound/vineboom.wav");
+    public static final Sound START = new Sound("/sound/start.wav");
     public static final Sound WIZARD_DEATH = new Sound("/sound/wizard_death.wav");
     public static final Sound EQUIP = new Sound("/sound/equip.wav");
     public static final Sound MISS = new Sound("/sound/miss.wav");

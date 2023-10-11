@@ -1,6 +1,6 @@
-find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/microcraft/coffeecraft/g' {} +
-find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/MICROCRAFT/COFFEECRAFT/g' {} +
-find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/Microcraft/Coffeecraft/g' {} +
+find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/coffeecraft/coffeecraft/g' {} +
+find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/coffeecraft/COFFEECRAFT/g' {} +
+find . -type f -exec grep -Iq . {} \; -exec sed -i -e 's/coffeecraft/Coffeecraft/g' {} +
 
 find . -type f -name "*-e-e-e*" -exec rm {} \;
 find . -type f -name "*-e-e*" -exec rm {} \;
